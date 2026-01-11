@@ -1,0 +1,28 @@
+{
+  "name": "yahudeee-architects-bot",
+  "version": "1.0.0",
+  "description": "🤖 Yahudeee Architect's - Bot Discord modern untuk sistem ticket support, transaksi digital, dan pengelolaan store otomatis.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Yahudeee Architect's",
+  "license": "MIT",
+  "keywords": [
+    "discord-bot",
+    "ticket-bot",
+    "store-bot",
+    "hanstech",
+    "digital-product"
+  ],
+  "dependencies": {
+    "discord.js": "^14.18.0",
+    "ms": "^2.1.3",
+    "node-cron": "^4.2.1"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
+}
